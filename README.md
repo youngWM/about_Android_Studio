@@ -9,4 +9,7 @@
 <br>
 <br>**3、AS生成jar包**
 <br>http://blog.csdn.net/ta893115871/article/details/46955791
+<br>
+<br>**解决Win10下Android Studio terminal无法输入的问题**
+<br>http://blog.sina.com.cn/s/blog_6e334dc70102w3jw.html
 
