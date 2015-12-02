@@ -7,5 +7,6 @@
 <br>**2、AS下mipmap 目录和Eclipse下drawable 目录有什么区别**
 <br>http://segmentfault.com/q/1010000002603418/a-1020000002603498
 <br>
-<br>
+<br>**3、AS生成jar包**
+<br>http://blog.csdn.net/ta893115871/article/details/46955791
 
