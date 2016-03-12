@@ -21,3 +21,7 @@
 
 <br>**7、提高Android studio开发效率的技巧**
 <br>http://zlv.me/posts/2015/07/13/14_android-studio-tips/
+
+<br>**8、Android studio提高效率的常用插件**
+<br>https://www.zhihu.com/question/28026027
+
