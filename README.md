@@ -18,3 +18,6 @@
 
 <br>**6、第三方apk签名的获取**
 <br>http://janrone.com/2015/12/29/查看apk签名-和-keystore-的信息/
+
+<br>**7、提高Android studio开发效率的技巧**
+<br>http://zlv.me/posts/2015/07/13/14_android-studio-tips/
