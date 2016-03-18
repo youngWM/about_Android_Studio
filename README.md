@@ -30,3 +30,4 @@
 <br>http://blog.csdn.net/recall2012/article/details/50857528
 <br>http://www.open-open.com/lib/view/open1441896025274.html (生成keystore)
 <br>http://www.2cto.com/kf/201407/317827.html
+<br>http://blog.csdn.net/jjwwmlp456/article/details/45057067
