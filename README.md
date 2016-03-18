@@ -25,3 +25,5 @@
 <br>**8、Android studio提高效率的常用插件**
 <br>https://www.zhihu.com/question/28026027
 
+<br>**9、Android studio多渠道打包apk**
+<br>http://blog.csdn.net/yy1300326388/article/details/48296221
