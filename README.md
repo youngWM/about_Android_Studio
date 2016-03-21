@@ -31,3 +31,4 @@
 <br>http://www.open-open.com/lib/view/open1441896025274.html (生成keystore)
 <br>http://www.2cto.com/kf/201407/317827.html
 <br>http://blog.csdn.net/jjwwmlp456/article/details/45057067
+<br>http://www.jayfeng.com/2015/11/07/Android打包的那些事/
