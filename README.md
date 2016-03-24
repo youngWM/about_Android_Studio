@@ -32,3 +32,7 @@
 <br>http://www.2cto.com/kf/201407/317827.html
 <br>http://blog.csdn.net/jjwwmlp456/article/details/45057067
 <br>http://www.jayfeng.com/2015/11/07/Android打包的那些事/
+
+<br>android studio 中 .9.png的制作
+<br>http://blog.csdn.net/sky_castle/article/details/49426015 
+
