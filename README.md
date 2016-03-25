@@ -38,5 +38,5 @@
 
 <br>**11、利用AndroidStudio开发java工程的办法**
 <br>http://jingyan.baidu.com/article/3a2f7c2e6b2f4726afd61185.html 
-<br>>>（注意public static void main(String[] args)关键字和参数类型要一致）
+<br>（注意public static void main(String[] args)声明要一致）
 
